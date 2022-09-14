@@ -4,7 +4,7 @@ Worked on different projects which can be found in the srource folder ("src"). T
 
 Note: The idea for the SDSS classifiers and regressors came from an article by Henghes et al.: https://academic.oup.com/mnras/article/505/4/4847/6288434
 
-The "data" file has SDSS data which was found on Kaggle and was exported as a csv file.
+The "data" file has SDSS data which was found on Kaggle and was exported as a csv file (https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?datasetId=1866141&sortBy=voteCount).
 
 Extra research could include:
 - Classifying galaxies by morphology/type: for example: https://paperswithcode.com/paper/rotation-invariant-convolutional-neural
