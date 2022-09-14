@@ -1,4 +1,4 @@
-.ipynb_checkpoints/*
+.ipynb_checkpoints
 galaxies-images/.DS_Store
 *.DS_Store
 data/photo_z/._df_for_32x32_images.csv
